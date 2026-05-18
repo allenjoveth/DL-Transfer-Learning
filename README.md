@@ -114,7 +114,8 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 
 ## Confusion Matrix
-<img width="549" height="673" alt="Screenshot 2026-05-18 113510" src="https://github.com/user-attachments/assets/407c4a06-00c2-48e5-aa01-d87f8f4f7ea7" />
+<img width="597" height="505" alt="Screenshot 2026-05-18 113958" src="https://github.com/user-attachments/assets/308cacae-ecd2-4cf9-82d1-9cfe66e9861b" />
+
 
 ## Classification Report
 <img width="402" height="177" alt="image" src="https://github.com/user-attachments/assets/6ba4ad19-b144-4a11-99a6-528f905d5b66" />
