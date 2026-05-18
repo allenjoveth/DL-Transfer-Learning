@@ -121,8 +121,9 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 <img width="402" height="177" alt="image" src="https://github.com/user-attachments/assets/6ba4ad19-b144-4a11-99a6-528f905d5b66" />
 
 ### New Sample Data Prediction
-<img width="299" height="324" alt="Screenshot 2026-05-18 113437" src="https://github.com/user-attachments/assets/d65a639e-b37d-4d0f-9af9-1b624122962c" />
-<img width="402" height="177" alt="image" src="https://github.com/user-attachments/assets/2041017f-d6ad-4d59-a7e2-cd68849402ae" />
+<img width="299" height="324" alt="Screenshot 2026-05-18 113437" src="https://github.com/user-attachments/assets/84e537e8-6c53-4743-86fd-34b2210e84ce" />
+<img width="301" height="326" alt="Screenshot 2026-05-18 113448" src="https://github.com/user-attachments/assets/3e429635-aa13-4b35-8ac4-95904f09ca9c" />
+
 
 ## RESULT
 The image classification model using transfer learning with VGG19 architecture for the given dataset has been executed successfully.
