@@ -1,4 +1,4 @@
-<img width="301" height="326" alt="Screenshot 2026-05-18 113448" src="https://github.com/user-attachments/assets/6c2c9692-9a9f-4257-937d-f8d96e333b58" /># DL- Developing a Neural Network Classification Model using Transfer Learning
+# DL- Developing a Neural Network Classification Model using Transfer Learning
 
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
